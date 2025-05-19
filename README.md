@@ -3,12 +3,26 @@
 ## Requisitos
 
 - Docker Desktop instalado
+- Git instalado
   
 ## Instalación (entorno de desarrollo)
 
 1. Clonar el repositorio en el directorio deseado:
 
 *Desde la terminal debe situarse en el directorio que desee clonar repo (ej: "C:\Users\Admin\Desktop") y ejecutar siguiente comando*
+
+<details>
+
+<summary>¿Cómo situarse en C:\Users\Admin\Desktop?</summary>
+
+1. Abrir terminal (Ya sea powershell, cmd, git bash, etc)
+2. Te encontrarás situado en C:\Users\Admin o algo así
+3. Debes ejecutar el comando
+```bash
+cd .\Desktop\
+```
+*Cualquier consulta escribirme a wsp +56979828311*
+</details>
 
 ```bash
 git clone https://github.com/AndresGomez03/pruebadocker
