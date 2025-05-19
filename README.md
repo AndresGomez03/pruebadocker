@@ -11,8 +11,8 @@
 *Para esto debe ubicarse desde su terminal en donde desee clonar el repositorio, ejemplo "C:\Users\Admin\Desktop" y ejecutar lo siguiente:*
 
 ```bash
-git clone https://github.com/AndresGomez03/pruebadocker.git
-cd frontend-ventas
+git clone https://github.com/AndresGomez03/pruebadocker
+cd pruebadocker
 ```
 
 2. Desde la terminal ubicandose en el directorio creado (C:\Users\Admin\Desktop\frontend-ventas) y teniendo Docker Desktop instalado ejecute el siguiente comando:
