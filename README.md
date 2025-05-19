@@ -13,7 +13,7 @@
 
 <details>
 
-<summary>¿Cómo situarse en C:\Users\Admin\Desktop?</summary>
+<summary>**¿Cómo situarse en C:\Users\Admin\Desktop?**</summary>
 
 1. Abrir terminal (Ya sea powershell, cmd, git bash, etc)
 2. Te encontrarás situado en C:\Users\Admin o algo así
