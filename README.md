@@ -18,7 +18,7 @@ cd pruebadocker
 2. Desde la terminal ubicandose en el directorio creado (C:\Users\Admin\Desktop\frontend-ventas) y teniendo Docker Desktop instalado ejecute el siguiente comando:
 
 ```bash
-docker build -t front-ventas
+docker build -t front-ventas .
 ```
 *Esto construirá la imagen dentro de su Docker con todas las dependencias necesarias para correr el sistema de forma local*
 
