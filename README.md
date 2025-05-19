@@ -15,17 +15,17 @@ git clone https://github.com/AndresGomez03/pruebadocker
 cd pruebadocker
 ```
 
-2. Desde la terminal ubicandose en el directorio creado (C:\Users\Admin\Desktop\frontend-ventas) y teniendo Docker Desktop instalado ejecute el siguiente comando:
+2. Desde la terminal ubicandose en el directorio creado (C:\Users\Admin\Desktop\pruebadocker) y teniendo Docker Desktop instalado ejecute el siguiente comando:
 
 ```bash
-docker build -t front-ventas .
+docker build -t prueba-docker .
 ```
 *Esto construirá la imagen dentro de su Docker con todas las dependencias necesarias para correr el sistema de forma local*
 
 3. Para correr la imagen, ejecute:
 
 ```bash
-docker run -p 3000:3000 front-ventas
+docker run -p 3000:3000 prueba-docker
 ```
 *Esto correrá su app en el puerto 3000, si accede a "http://localhost:3000" verá la aplicación corriendo*
 
