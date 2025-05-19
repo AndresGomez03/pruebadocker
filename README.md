@@ -11,7 +11,7 @@
 *Para esto debe ubicarse desde su terminal en donde desee clonar el repositorio, ejemplo "C:\Users\Admin\Desktop" y ejecutar lo siguiente:*
 
 ```bash
-git clone https://github.com/garaneda21/catalogo-digital-tiendita-pm
+git clone https://github.com/AndresGomez03/pruebadocker.git
 cd frontend-ventas
 ```
 
