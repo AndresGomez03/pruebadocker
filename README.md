@@ -1,9 +1,9 @@
-PruebaDocker
+#PruebaDocker
 
 ## Requisitos
 
 - Docker Desktop instalado
-- 
+  
 ## Instalación (entorno de desarrollo)
 
 1. Clonar el repositorio en el directorio deseado:
@@ -11,7 +11,7 @@ PruebaDocker
 *Desde la terminal debe situarse en el directorio que desee clonar repo (ej: "C:\Users\Admin\Desktop") y ejecutar siguiente comando*
 
 ```bash
-git clone
+git clone https://github.com/AndresGomez03/pruebadocker
 cd pruebadocker
 ```
 2. Construir imagen desde el directorio creado (ej "C:\Users\Admin\Desktop\pruebadocker"), debe ejecutar el siguiente comando:
